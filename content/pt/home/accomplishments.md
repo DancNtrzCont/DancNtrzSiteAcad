@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Conquistas"
+title = "Certificados"
 subtitle = ""
 
 # Date format
@@ -19,24 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Convenio X"
-  organization_url = "https://www.coursera.org"
-  title = "Exemplo"
+  organization = "GaiaEducation"
+  organization_url = "https://www.gaiaeducation.org/"
+  title = "Design em Sustentabilidade"
   url = ""
   #certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  date_start = "2008-04-01"
+  date_end = "2008-08-01"
   description = ""
 
 [[item]]
-  organization = "ed"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Academy for Movement & Awareness"
+  organization_url = "https://www.nannikloke.com"
+  title = "Treinamento Internacional de Movimento & Consciência"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-01-01"
+  date_end = "2015-08-01"
+  description = ""
   
 # [[item]]
 #   organization = "DataCamp"

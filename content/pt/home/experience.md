@@ -43,11 +43,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Fonoaudióloga"
-  company = "Hospital X"
+  company = "Centro de Convivência e Coperativa Guarapiranga"
   company_url = ""
   location = "São Paulo"
-  date_start = "2010-01-01"
-  date_end = "2010-12-31"
-  description = """Descrição."""
+  date_start = "1990-01-01"
+  date_end = "1991-12-31"
+  description = """Descricao"""
 
 +++

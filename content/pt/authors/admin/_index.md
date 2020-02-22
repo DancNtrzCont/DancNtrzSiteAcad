@@ -22,21 +22,22 @@ role: Focalizadora de Danças Circulares
 bio: Focalizadora de Danças Circulares desde 1995
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Música
+- Literatura
+- Cinema
+- Árvores e flores
 
 education:
   courses:
   - course: Fonoaudiologia
     institution: PUC-SP
     year: 1987
-  - course: Educação Ambiental
-    institution: Universidade Aberta do Meio Ambiente e Cultura de Paz
-    year: 2020
-  - course: Educação em Saúde Pública e Antropologia da Saúde. 
-    institution: Universidade Aberta do Meio Ambiente e Cultura de Paz
-    year: 2020
+  - course: Especialização em Saúde Pública
+    institution: UNAERP
+    year: 1995
+  - course: Especialização em Antropologia da Saúde
+    institution: Universidade Federal de Pernambuco
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,7 +61,7 @@ social:
   link: https://pt-br.facebook.com/pages/category/Community/Dan%C3%A7ando-a-natureza_Estela-Gomes-1936186596606799/
 - icon: instagram
   icon_pack: fab
-  link: https://instagram.com
+  link: https://www.instagram.com/estela_mgomes/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
