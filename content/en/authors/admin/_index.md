@@ -76,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Estela Gomes conheceu as Danças Circulares (DC) em 1995 e desde então começou a utilizá-las como recursos terapêuticos e educativos. Atuou principalmente em grupos do serviço público municipal de São Pauolo na Secretaria Municipal de Saúde, na área de Telemarketing em Call Center, em consultório particular, e em eventos e cursos em escolas particulares.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Focaliza semanalmente grupos de Dança Circular em diversos locais (Vila Olímpia, Parque Ibirapuera etc.) e ministra vários cursos na [UMAPAZ](https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/umapaz/) desde 2008. Eles são: Conhecendo as Danças Circulares Sagradas – Primeiros Passos módulo I e II, Cirandas de Saberes, DC na Educação Ambiental, Conexão com a natureza, [entre outros](#projects).
