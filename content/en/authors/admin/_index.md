@@ -48,12 +48,18 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
+- icon: facebook-square
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.facebook.com/pages/category/Community/Dan%C3%A7ando-a-natureza_Estela-Gomes-1936186596606799/
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
