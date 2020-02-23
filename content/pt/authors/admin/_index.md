@@ -83,4 +83,4 @@ Focalizadora de Danças Circulares (DC), Fonoaudióloga, Coordenadora do Program
 
 Atua como focalizadora em diversos cursos de formação e capacitação em Danças Circulares e Danças dos Florais de Bach utilizando a DC como Prática Integrativa e Complementar em Saúde (PICS) e como Metodologia Integrativa em educação ambiental. [Ver cursos](#projects)
 
-Certificada e membro internacional da Academy of Movement & Awareness – Método Harmony de Nanni Kloke
+Certificada pela Academy of Movement & Awareness – Método Harmony de Nanni Kloke e membro certificada da Rede Internacional da Academy of Movemente & Awareness.

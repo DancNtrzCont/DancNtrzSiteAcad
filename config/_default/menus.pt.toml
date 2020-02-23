@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Início"
-  url = "#about"
+  url = "#initialheader"
   weight = 10
 
 [[main]]
@@ -14,9 +14,9 @@
   weight = 20
 
 [[main]]
-  name = "Projetos"
+  name = "Cursos"
   url = "#projects"
-  weight = 30
+  weight = 15
 
 [[main]]
   name = "Publicações"

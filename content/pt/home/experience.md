@@ -18,17 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Presente"
-  company = ""
+  title = "UMAPAZ (Universidade Aberta do Meio Ambiente e Cultura de Paz)"
+  company = "Secretaria Municipal do Verde e do Meio Ambiente (PMSP)"
+  company_url = ""
+  location = ""
+  date_start = "2006-01-01"
+  date_end = ""
+  description = """Capacitação de educadores e profissionais de saúde nas DC e em Educação Ambiental; elaboração do Programa Aventura Ambiental no Parque Ibirapuera; Coordenação, elaboração e docente em diversos cursos promovidos pela entidade em DC, Educação Ambiental e Cultura de Paz, DC como Prática Integrativa e Complementar em Saúde em parceira com SMS"""
+
+[[experience]]
+  title = "Ministrante de Cursos e grupos"
+  company = "Secretaria Municipal do Verde e do Meio Ambiente (PMSP)"
   company_url = ""
   location = ""
   date_start = "2005-01-01"
   date_end = ""
-  description = """
-
-  * Ministrante de aulas, grupos semanais, cursos de formação em DC e Danças dos Florais de Bach. Focalizadora convidada de cursos de formação, Festivais e Encontros Brasileiros de DC (EBDCS, SESC, Festival do Vale do Paraíba, TRIOM, Semeia Dança, Mosaicos dentre outros).
-  * UMAPAZ (Universidade Aberta do Meio Ambiente e Cultura de Paz) - Secretaria Municipal do Verde e do Meio Ambiente (PMSP) - Capacitação de educadores e profissionais de saúde nas DC e em Educação Ambiental; elaboração do Programa Aventura Ambiental no Parque Ibirapuera; Coordenação, elaboração e docente em diversos cursos promovidos pela entidade em DC, Educação Ambiental e Cultura de Paz, DC como Prática Integrativa e Complementar em Saúde em parceira com SMS
-  """
+  description = """Ministrante de aulas, grupos semanais, cursos de formação em DC e Danças dos Florais de Bach. Focalizadora convidada de cursos de formação, Festivais e Encontros Brasileiros de DC (EBDCS, SESC, Festival do Vale do Paraíba, TRIOM, Semeia Dança, Mosaicos dentre outros)."""
 
 [[experience]]
   title = "Viagem à Concepción"
