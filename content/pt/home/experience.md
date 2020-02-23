@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2019-07-01"
-  date_end = "2019-7-15"
+  date_end = "2019-07-15"
   description = """Viagem à Concepción no Chile como focalizadora convidada para apresentar a experiência de SP com as DC nas áreas de saúde e educação ambiental no âmbito público municipal"""
 
 [[experience]]
