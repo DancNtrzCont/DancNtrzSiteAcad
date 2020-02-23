@@ -24,8 +24,9 @@ bio: Focalizadora de Danças Circulares desde 1995
 interests:
 - Música
 - Literatura
-- Cinema
-- Árvores e flores
+- Natureza
+- Mandalas
+- Artes
 
 education:
   courses:
@@ -78,8 +79,8 @@ user_groups:
 - Visitors
 ---
 
-Focalizadora de Danças Circulares (DC). Conheceu as DC em 1995 e desde então começou a utilizá-las como recurso terapêutico e educativo em grupos na atuação do serviço público municipal em SP na Secretaria Municipal de Saúde, na área de Telemarketing em Call Center, em consultório particular, em eventos e cursos em escolas particulares. Participou do Festival das Danças Circulares em Findhorn Foundation em 1996 (Escócia). Focalizadora de Danças Circulares Sagradas incluindo formação com focalizadores brasileiros e internacionais (Renata Ramos, Mônica Goberstein, Cristiana Menezes, Kaká Werá, Laura Shanon, Bárbara Swetina, Gabrielle Wosien, Peter Vallance, Friedel Kloke, Nanni Kloke, Mandy de Winter, Judy King, Andrés Rey Fermandois, Sandra Cabral dentre outros).
+Focalizadora de Danças Circulares (DC), Fonoaudióloga, Coordenadora do Programa de Metodologias Integrativas da UMAPAZ (Divisão de Formação em Educação Ambiental e Cultura de Paz) e Educadora Ambiental. Conheceu as DC em 1995 e desde então começou a utilizá-las como recurso terapêutico e educativo em grupos. Participou do Festival das DC em Findhorn em 1996 (Escócia).
 
-Fonoaudióloga formada pela PUC-SP em 1987, Educadora Ambiental docente na Universidade Aberta do Meio Ambiente e Cultura de Paz - UMAPAZ/SVMA/PMSP. Coordenadora do Programa de Metodologias Integrativas na UMAPAZ-3 Divisão de Formação. Trabalhou anteriormente na Secretaria Municipal de Saúde: CECCO Guarapiranga, UBS Veleiros e Hospital do Servidor Público Municipal no Programa de Voz. Participou durante vários anos de canto coral tendo estudado técnica vocal. Fez especialização em Educação em Saúde Pública e Antropologia da Saúde.
+Atua como focalizadora em diversos cursos de formação e capacitação em Danças Circulares e Danças dos Florais de Bach utilizando a DC como Prática Integrativa e Complementar em Saúde (PICS) e como Metodologia Integrativa em educação ambiental. [Ver cursos](#projects)
 
-Ministra vários cursos de capacitação nas Danças Circulares na UMAPAZ desde 2008: Conhecendo as Danças Circulares Sagradas – Primeiros Passos módulo I e II; Cirandas de Saberes; DC na Educação Ambiental; DC e sabedoria dos povos, DC Hindus, DC Celtas, Conexão com a natureza (introdução ao Método Harmony de Nanni Kloke – módulos I, II e III), Cantando e dançando na educação dentre outros. Ministra cursos de formação em Danças dos Florais de Bach (Natal, Belém, Santo André, São Paulo, Holambra, Sorocaba, Itu, Espírito Santo, Rio de Janeiro e outros) há mais de 15 anos. Focalizadora convidada durante vários anos de cursos de formação e capacitação em DC da TRIOM e do Semeia Dança. Realizou trabalhos de Danças Circulares em EMEIs, escolas públicas e particulares tais como Stance Dual School, Play Pen e EMEI Olandya. Focalizadora convidada de eventos de DC como Festival do Vale do Paraíba, EBDCS (Encontro Brasileiro de Danças Circulares Sagradas) e Dançando a natureza no SESC Consolação. Formada no Treinamento Internacional da Academy for Movement & Awareness - Método Harmony de Nanni Kloke. Membro da Rede do Harmony Method de Nanni Kloke. Focaliza semanalmente grupos de Dança Circular em diversos locais (Vila Olímpia e Parque Ibirapuera).
+Certificada e membro internacional da Academy of Movement & Awareness – Método Harmony de [Nanni Kloke](https://www.nannikloke.com).
