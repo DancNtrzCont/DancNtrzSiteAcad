@@ -3,7 +3,7 @@
 # This section displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
 
-widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 12  # Order that this section will appear.
@@ -18,6 +18,9 @@ subtitle = ""
   # Choose how much pages you would like to display (0 = all pages)
   count = 2
 
+  # Choose how many pages you would like to offset by
+  offset = 0
+
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
@@ -26,6 +29,7 @@ subtitle = ""
     tag = "Meta"
     category = ""
     publication_type = ""
+    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.

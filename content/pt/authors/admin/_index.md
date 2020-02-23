@@ -19,7 +19,7 @@ role: Focalizadora de Danças Circulares
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
-bio: Focalizadora de Danças Circulares desde 1995
+bio: Que possamos a cada dia dançar a natureza por todas as nossas relações!
 
 interests:
 - Música
@@ -83,4 +83,4 @@ Focalizadora de Danças Circulares (DC), Fonoaudióloga, Coordenadora do Program
 
 Atua como focalizadora em diversos cursos de formação e capacitação em Danças Circulares e Danças dos Florais de Bach utilizando a DC como Prática Integrativa e Complementar em Saúde (PICS) e como Metodologia Integrativa em educação ambiental. [Ver cursos](#projects)
 
-Certificada e membro internacional da Academy of Movement & Awareness – Método Harmony de [Nanni Kloke](https://www.nannikloke.com).
+Certificada e membro internacional da Academy of Movement & Awareness – Método Harmony de Nanni Kloke

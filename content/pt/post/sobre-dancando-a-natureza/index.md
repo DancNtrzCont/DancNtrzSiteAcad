@@ -1,6 +1,6 @@
 ---
 title: 'O que é o trabalho Dançando a Natureza?'
-subtitle: 'Sobre nós'
+subtitle: ''
 summary: Dançando a natureza é uma proposta de atuação com as Danças Circulares (DC) a partir da inspiração e conexão com a natureza, tanto interna quanto externa. A natureza sempre foi inspiração para...
 authors:
 - admin
@@ -17,7 +17,7 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
+  placement: 3
   caption: ""
   focal_point: ""
   preview_only: false

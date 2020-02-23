@@ -1,6 +1,6 @@
 ---
 title: 'O que é a Dança Circular?'
-subtitle: 'Sobre a Dança Circular'
+subtitle: ''
 summary: A Dança Circular (DC) ou Dança Circular Sagrada (DCS) é uma modalidade de dança que faz parte de um movimento mundial de resgate de danças tradicionais e contemporâneas dos povos buscando a convivência cooperativa, o respeito por si mesmo, pelo outro e pelo planeta. Este...
 authors:
 - admin
