@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Certificados"
@@ -23,7 +23,8 @@ date_format = "Jan 2006"
   organization_url = "https://www.gaiaeducation.org/"
   title = "Design em Sustentabilidade"
   url = ""
-  certificate_url = "https://www.gaiaeducation.org/"
+  #certificate_url = "https://www.gaiaeducation.org/"
+  certificate_url = ""
   date_start = "2008-04-01"
   date_end = "2008-08-01"
   description = ""
